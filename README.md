@@ -25,20 +25,13 @@ Il tipo di sincronizzazione disponibile viene indicato nella cartella di ogni al
 
 ## Utilizzo
 
-Per utilizzare questi file con Spotify è necessario installare la modifica non ufficiale di Spicy Lyrics dedicata ai TTML locali:
+Per utilizzare questi file con Spotify è necessario:
 
-[**Spicy Lyrics Local TTML**](https://github.com/gingerik87/spicy-lyrics-local-ttml)
+* installare la modifica non ufficiale di Spicy Lyrics dedicata ai TTML locali:
 
-La repository collegata contiene requisiti, installazione e istruzioni d’uso.
+[**Spicy Lyrics Local TTML**](https://github.com/gingerik87/spicy-lyrics-local-ttml), La repository collegata contiene requisiti, installazione e istruzioni d’uso.
 
----
-
-## Album disponibili
-
-| Artista       | Album         | Tracce | Sincronizzazione |
-| ------------- | ------------- | -----: | ---------------- |
-| Da aggiungere | Da aggiungere |      — | —                |
-
+* Possedere i file audio localmente, questa repository **NON** distribuisce alcun tipo di file audio, la maggior parte dei TTML sono stati però testati e creati con l'utilizzo di file provenienti principalmente da [Soulseek](https://www.slsknet.org/news/node/680)
 ---
 
 ## Problemi e correzioni
